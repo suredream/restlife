@@ -93,6 +93,10 @@ Unknown regions fall back to the world average.
 - A terminal that supports ANSI colors
 - GNU `date` or macOS `date`
 
+## Author
+
+Jun Xiong ([junxiong360@gmail.com](mailto:junxiong360@gmail.com))
+
 ## License
 
 MIT
