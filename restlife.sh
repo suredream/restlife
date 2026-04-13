@@ -2,7 +2,7 @@
 set -euo pipefail
 
 CONFIG="$HOME/.restlife.conf"
-CHUNK=100
+CHUNK=10
 
 # ANSI colors
 GRAY=$'\033[90m'
